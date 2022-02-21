@@ -5,3 +5,6 @@ Note: This page is not affiliated with the retired ETCDevs team, nor is this pag
 Users with ideas for projects can create an issue with a feature request and if anyone is interested and able, they may take you up on it.
 
 Note2:  This GitHub is super new and under construction. List of links and projects coming soon!
+
+Join the Telegram if interested in contributing to the ETC Ecosystem, looking for other developers to collaborate with, or just want to see what's being built. 
+https://t.me/etcdevs
